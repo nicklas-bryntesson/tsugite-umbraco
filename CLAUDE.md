@@ -31,7 +31,9 @@ ported. Components arrive later, built on the Tsugite contract model.
    material, not rules for this repo.
 4. **Git flow.** Work on branches (`feat/`, `fix/`, `chore/`, `docs/`) and
    reach `main` through pull requests. Never force-push. Stage files
-   explicitly (no `git add -A` / `git add .`).
+   explicitly (no `git add -A` / `git add .`). The routine lives in the
+   `git-flow` skill; commits to `main` and force-pushes are blocked by a
+   PreToolUse hook.
 
 ## Layout
 
