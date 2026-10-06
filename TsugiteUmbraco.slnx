@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TsugiteUmbraco.Web/TsugiteUmbraco.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>

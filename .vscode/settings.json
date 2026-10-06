@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "workbench.colorCustomizations": {
+        "[Night Owl]": {
+            "titleBar.activeBackground": "#B49FD8",
+            "titleBar.activeForeground": "#0A1220",
+            "titleBar.inactiveBackground": "#B49FD899",
+            "titleBar.inactiveForeground": "#0A1220CC",
+            "activityBar.background": "#303A55",
+            "activityBar.foreground": "#DDD4ED",
+            "activityBar.inactiveForeground": "#636188",
+            "activityBarBadge.background": "#B49FD8",
+            "activityBarBadge.foreground": "#0A1220",
+            "statusBar.background": "#77709C",
+            "statusBar.foreground": "#FFFFFF",
+            "statusBar.noFolderBackground": "#484C6D",
+            "statusBar.debuggingBackground": "#484C6D",
+            "terminal.background": "#0F2135",
+            "terminal.foreground": "#D6DEEB",
+            "terminalCursor.foreground": "#B49FD8",
+            "panel.background": "#0F2135",
+            "panel.border": "#B49FD8",
+            "tab.activeBorderTop": "#B49FD8",
+            "focusBorder": "#B49FD8",
+            "sash.hoverBorder": "#B49FD8"
+        }
+    }
+}
